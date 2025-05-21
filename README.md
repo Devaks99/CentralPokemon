@@ -49,4 +49,4 @@ Siga as instruções abaixo para rodar o projeto localmente:
 Primeiro, faça o clone deste repositório em sua máquina local:
 
 ```bash
-git clone https://github.com/Devaks99/centralpokemon.git
+git clone https://github.com/Devaks99/CentralPokemon.git
